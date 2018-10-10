@@ -19,7 +19,7 @@
                 <h1>SPMAPI</h1>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/localgyros/spmapi">SPMAPI on Github</a>
+                        <a class="nav-link" href="https://github.com/localgyros/spmapi2">SPMAPI on Github</a>
                     </li>
                 </ul>
             </nav>
@@ -32,7 +32,6 @@
             </div>
         </main>
     </div>
-    <script src="js/app.js"></script>
 </body>
 
 </html>
